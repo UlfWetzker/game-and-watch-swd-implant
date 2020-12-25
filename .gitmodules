@@ -1,0 +1,3 @@
+[submodule "SOICbite"]
+	path = SOICbite
+	url = https://github.com/SimonMerrett/SOICbite.git

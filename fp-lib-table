@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "GnW_SWD")(type "KiCad")(uri "${KIPRJMOD}/GnW_SWD.pretty")(options "")(descr ""))
+  (lib (name "SOICbite")(type "KiCad")(uri "${KIPRJMOD}/SOICbite")(options "")(descr ""))
+)
